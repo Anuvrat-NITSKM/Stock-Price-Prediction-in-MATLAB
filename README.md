@@ -11,7 +11,7 @@ Rectified linear unit (ReLU) allows for faster and more effective training by ma
 Pooling simplifies the output by performing nonlinear downsampling, reducing the number of parameters that the network needs to learn.These operations are repeated over tens or hundreds of layers, with each layer learning to identify different features.<br />
 
 ## Problem Statement
-There are many datasets available for the stock market prices.This project aims to predict the future price of the stock market based on the previous year’s data using Linear Regression and Convolutional Neural Networks.<br />
+There are many datasets available for the stock market prices.This project aims to predict the future price of the stock market based on the previous year’s data using Convolutional Neural Networks.<br />
 ## Graph for actual and predicted stock prices:
 ![image](https://user-images.githubusercontent.com/58883201/119706688-ece8d680-be77-11eb-8c4b-6d1d15df7d18.png)<br />
 ## Training the Neural Network:
